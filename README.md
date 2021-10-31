@@ -1,4 +1,4 @@
-# Physics-And-Expiremental-Data
+# Physics-And-Experimental-Data
 Expiremental Data Analysis for Engineering Physcis applications
 
 Here are a few examples from both files included that are derived from the expiremental data.
